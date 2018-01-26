@@ -1,0 +1,1 @@
+CertUtil -hashfile %cd%\%1 md5
